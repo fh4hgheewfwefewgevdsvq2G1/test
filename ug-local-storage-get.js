@@ -11,7 +11,7 @@
     const content = JSON.stringify(localStorageData);
 
     // Thông tin GitHub
-    const token = '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'; // Thay bằng PAT mới của bạn
+    const token = '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'; // Thay bằng PAT mới của bạn
     const username = 'fh4hgheewfwefewgevdsvq2G1'; // Thay bằng username GitHub
     const repo = 'local-storage-ugphone-test1'; // Thay bằng tên repository
     const branch = 'main'; // Thay bằng nhánh bạn muốn
